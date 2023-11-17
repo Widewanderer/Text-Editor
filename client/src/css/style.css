@@ -7,9 +7,6 @@
   --monoaki: #272822;
   --navbar-height: 50px;
 }
-.hidden {
-  display: none;
-}
 
 body {
   margin: 0;
@@ -211,4 +208,8 @@ h1 {
   h1 {
     font-size: 18px;
   }
+}
+
+.hidden {
+  display: none;
 }
