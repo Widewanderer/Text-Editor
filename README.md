@@ -11,35 +11,48 @@ This project is licensed under the terms of the [MIT](https://opensource.org/lic
 
   ## Description 
 
-  A logo generator which creates initialed logos in SVG files. Parameters are created using Question promts generated in the terminal using inquirer. Colors can also be selcted for text and background shape. 
-    
+  A simple text editor application built on a PWA framework allowing the application to be downloaded and used offline as well. Applicaiton was deployed using Heroku and is accessible through the link below. 
+
+  Live Website: https://the-great-slavic-text-editor-870454b5748d.herokuapp.com/
+
+  Github Repository: https://github.com/Widewanderer/Text-Editor
+
   -----
 
  ## Table of Contents
   - [installation](#installation)
   - [Usage](#usage)
   - [License](#license)
-  - [Contributing](#contributing)
-  - [Tests](#contributing)
+  - [Contributions](#contributions)
   - [Questions](#questions)
 
   ## Installation 
-  Download project from GitHub. Use npm install for Inquirer and fs.  
+
+ *  Download project from GitHub. 
+
+ * open the root "Text-Editor file in your terminal.  
+ 
+ *  npm i    (to install modules)
+ 
+ * npm run build  
+
+ * npm start 
+
+ * Your application should now be opperational on your local server! 
 
   -----
 
   ## Usage
-  Use a Node Index.js command in the terminal is initiate the program. Answer question prompts which appear in terminal. SVG will be generated in accourdance with your answers. Color selection can be a common color keyword or a hexidecimal. 
+  Open the application through your favorite browser, download to your local device if you choose. Select a line and write to your heart's content. Possible errors are highlighted in red. 
+
+  ![Just Another Text Editor](./assets/Screenshot%202023-11-17%20at%2018.06.36.png)
+
+
 
   -----
 
-  ## Contributing
-  If your want to contribute. Email created using email provided below. 
-
-  -----
-
-  ## Tests
-    Tests for shape construction are included using jest and can be run in the terminal using the npm test command. 
+  ## Contributions
+ Application was made with the help of Megan Myers  
 
   -----
 
